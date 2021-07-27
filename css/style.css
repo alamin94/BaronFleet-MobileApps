@@ -11,14 +11,16 @@ body {
 }
 
 .container {
-    max-width: 20%;
+    max-width: 80%;
     background-color: #16142D;
+}
 
+.logo-area {
+    /* background-color: #29263E; */
 }
 
 .form-control-validation {
     display: block;
-    width: 100%;
     text-align: center;
     border-radius: 25px;
     padding: 9px 25px;
@@ -30,11 +32,10 @@ body {
     /* background-clip: padding-box; */
     width: 80%;
     border: 1px solid #C99C55;
-    -webkit-appearance: none;
+    /* -webkit-appearance: none;
     -moz-appearance: none;
-    appearance: none;
-    border-radius: 1.25rem;
-    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    appearance: none; */
+    /* transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out; */
     font-family: 'Rubik', sans-serif;
 }
 
